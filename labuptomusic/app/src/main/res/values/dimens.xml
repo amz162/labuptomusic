@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_pad_20">20dp</dimen>
+    <dimen name="margin_pad_10">10dp</dimen>
+    <dimen name="margin_pad_5">50dp</dimen>
+    <dimen name="dimens_image">80dp</dimen>
+    <dimen name="txt_size_medium">15sp</dimen>
+    <dimen name="txt_size_large">20sp</dimen>
+    <dimen name="margin_pad_30">30dp</dimen>
+    <dimen name="dimens_home_btns">60dp</dimen>
+    <dimen name="margin_pad_15">15dp</dimen>
+    <dimen name="margin_choose">50dp</dimen>
+
+</resources>

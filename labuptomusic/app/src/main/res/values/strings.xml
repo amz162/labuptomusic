@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MEDIA</string>
+    <string name="empty_error">Required field is empty</string>
+    <string name="match">Passwords do not match</string>
+    <string name="title_activity_home">Home</string>
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_contact">Contact</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone_no">Phone no</string>
+    <string name="action_open_camera_activity">Camera Activity</string>
+    <string name="action_open_list_activity">List Activity</string>
+    <string name="action_open_media_activity">Media Activity</string>
+    <string name="action_open_camera">Open Camera</string>
+    <string name="label_play_from_URI">Play from URI</string>
+    <string name="action_play">PLAY</string>
+    <string name="action_choose">Choose Media</string>
+    <string name="action_stop">STOP</string>
+    <string name="action_resume">RESUME</string>
+    <string name="action_pause">PAUSE</string>
+    <string name="msg_audio_completed">COMPLETED</string>
+</resources>

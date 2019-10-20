@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.admine.labuptomusic.CameraActivity">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/iv_camera_captured_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/margin_pad_10"
+        android:layout_weight="5"
+        android:padding="@dimen/margin_pad_10"
+        android:scaleType="fitCenter"
+        app:srcCompat="@mipmap/ic_launcher_round" />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_camera_open_camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/colorBlue"
+        android:padding="@dimen/margin_pad_15"
+        android:text="@string/action_open_camera"
+        android:textAllCaps="false"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/txt_size_medium"
+        android:textStyle="bold" />
+
+</LinearLayout>
